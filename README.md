@@ -34,3 +34,15 @@ quantidades.
 # Modelo Conceitual
 
 <img src="https://raw.githubusercontent.com/joaopedrosalcantara/SistemaDeAlmoxarifado/main/ModeloConceitual.png" />
+
+
+# Tecnologias utilizadas
+
+- Java
+- MySQL
+
+# Autores
+
+João Pedro Soares de Alcântara e Felipe Augusto.
+
+https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-de-alc%C3%A2ntara-4b040a165/
