@@ -33,3 +33,4 @@ quantidades.
 
 # Modelo Conceitual
 
+<img src="https://raw.githubusercontent.com/joaopedrosalcantara/SistemaDeAlmoxarifado/main/ModeloConceitual.png" />
